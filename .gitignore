@@ -1,6 +1,13 @@
 /.idea
 /wp
-/wp-content
+/wp-content/*
 /.htaccess
 /composer.lock
 /wp-config.php
+
+!/wp-content/mu-plugins
+/wp-content/mu-plugins/*
+!/wp-content/mu-plugins/tiara-commerce.php
+!/wp-content/mu-plugins/languages
+/wp-content/mu-plugins/languages/*
+!/wp-content/mu-plugins/languages/tiara-commerce*
