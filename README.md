@@ -1,5 +1,5 @@
 # Installation
 
 ```bash
-composer create-project hipnaba/tiara-wordpress PROJECT_NAME
+composer create-project hipnaba/tiara-commerce PROJECT_NAME
 ```
